@@ -17,6 +17,11 @@ To demonstrate how password strength can be analyzed based on several criteria, 
   - At least one special character.
 - Returns a message about whether the password meets the security requirements or not.
 
+## 🚀 How to Run
+
+```bash
+python3 password_checker.py
+
 ## 📚 Concepts Applied
 
 - Python (Regular Expressions)
